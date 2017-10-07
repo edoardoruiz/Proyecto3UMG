@@ -3,13 +3,4 @@ c:\users\ricardo\documents\visual studio 2012\Projects\Dw_Proyecto_3\Dw_Proyecto
 c:\users\ricardo\documents\visual studio 2012\Projects\Dw_Proyecto_3\Dw_Proyecto_3\obj\Debug\Dw_Proyecto_3.csprojResolveAssemblyReference.cache
 c:\users\ricardo\documents\visual studio 2012\Projects\Dw_Proyecto_3\Dw_Proyecto_3\obj\Debug\Dw_Proyecto_3.dll
 c:\users\ricardo\documents\visual studio 2012\Projects\Dw_Proyecto_3\Dw_Proyecto_3\obj\Debug\Dw_Proyecto_3.pdb
-C:\Users\edoar\Downloads\Dw_Proyecto_3\Dw_Proyecto_3\bin\Dw_Proyecto_3.dll
-C:\Users\edoar\Downloads\Dw_Proyecto_3\Dw_Proyecto_3\bin\Dw_Proyecto_3.pdb
-C:\Users\edoar\Downloads\Dw_Proyecto_3\Dw_Proyecto_3\obj\Debug\Dw_Proyecto_3.csprojResolveAssemblyReference.cache
-C:\Users\edoar\Downloads\Dw_Proyecto_3\Dw_Proyecto_3\obj\Debug\Dw_Proyecto_3.dll
-C:\Users\edoar\Downloads\Dw_Proyecto_3\Dw_Proyecto_3\obj\Debug\Dw_Proyecto_3.pdb
-C:\Users\edoar\Downloads\Dw_Proyecto_31\Dw_Proyecto_3\bin\Dw_Proyecto_3.dll
-C:\Users\edoar\Downloads\Dw_Proyecto_31\Dw_Proyecto_3\bin\Dw_Proyecto_3.pdb
-C:\Users\edoar\Downloads\Dw_Proyecto_31\Dw_Proyecto_3\obj\Debug\Dw_Proyecto_3.csprojResolveAssemblyReference.cache
-C:\Users\edoar\Downloads\Dw_Proyecto_31\Dw_Proyecto_3\obj\Debug\Dw_Proyecto_3.dll
-C:\Users\edoar\Downloads\Dw_Proyecto_31\Dw_Proyecto_3\obj\Debug\Dw_Proyecto_3.pdb
+C:\Users\Ricardo\documents\visual studio 2012\Projects\Dw_Proyecto_3\Dw_Proyecto_3\bin\itextsharp.dll
